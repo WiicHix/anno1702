@@ -1,11 +1,17 @@
 # Introduktion till programmering i JavaScript
 
-Det här Github-kontot tillhör Anna Norberg. </br>
-Den här sidan är till för att presentera uppgiften gällande versionshantering med Git. 
+Den här README-filen tillhör Anna Norberg. </br>
+På den här sidan presenteras uppgiften gällande versionshantering med Git. </br>
+Det är **första** gången som jag skapar en README-fil.
 
 ## Moment 3
-
 ### Uppgiftsbeskrivning
+#### Del 1
 * Besvara frågor gällande Git
-* Skapa en README-fil
-* Slutligen lämna in
+
+#### Del 2
+* Skapa en README-fil för uppgiften
+* Skapa en README-fil för min profil
+
+## Länk till min Github-profil
+[Här finns min profil](https://github.com/Wiichix)

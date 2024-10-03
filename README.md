@@ -8,10 +8,18 @@ Det är **första** gången som jag skapar en README-fil.
 ### Uppgiftsbeskrivning
 #### Del 1
 * Besvara frågor gällande Git
+* 
 
 #### Del 2
 * Skapa en README-fil för uppgiften
 * Skapa en README-fil för min profil
+
+## Begrepp att förklara
+|Begrepp|Förklaring|
+---|---|
+Local repository | Betyder att...
+Remote repository | En såkallad remote är... 
+Branch| Är ett begrepp som betyder... 
 
 ## Länk till min Github-profil
 [Här finns min profil](https://github.com/Wiichix)

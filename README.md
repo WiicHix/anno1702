@@ -1,6 +1,6 @@
 # Introduktion till programmering i JavaScript
 
-Den här README-filen tillhör Anna Norberg, 2024. </br>
+Den här README-filen tillhör Anna Norberg, 2024. <br></br>
 På den här sidan presenteras uppgiften gällande versionshantering med Git. </br>
 Det är **första** gången som jag skapar en README-fil.
 
